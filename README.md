@@ -1,2 +1,2 @@
-# git-init-sample
-git initial practice
+# Vinnie-mini-project-mod1
+My New Website draft
